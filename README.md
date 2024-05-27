@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # BPS-v1-1
-=======
+
 # Baysian Power Steering
 
 This is the official release of  [Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models](https://arxiv.org/abs/2302.05543).
@@ -54,17 +54,4 @@ python train.py
 ```
 
 
-# Citation
 
-    @misc{zhang2023adding,
-      title={Adding Conditional Control to Text-to-Image Diffusion Models}, 
-      author={Lvmin Zhang and Anyi Rao and Maneesh Agrawala},
-      booktitle={IEEE International Conference on Computer Vision (ICCV)}
-      year={2023},
-    }
-
-[Arxiv Link](https://arxiv.org/abs/2302.05543)
-
-[Supplementary Materials](https://lllyasviel.github.io/misc/202309/cnet_supp.pdf)
-
->>>>>>> 3a240fb (first commit)
