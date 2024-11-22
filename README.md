@@ -3,7 +3,7 @@
 
 # Baysian Power Steering
 
-This is the official release of  [Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models](https://arxiv.org/abs/2302.05543).
+This is the official release of  [Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models](https://arxiv.org/pdf/2406.03683).
 
 Bayesian Power Steering(BPS) is a neural network structure to guiding the Stable Diffusion(SD) towards directions with a high probability density of satisfying the given condition.
 
